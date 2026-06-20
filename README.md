@@ -48,6 +48,7 @@ using Python, SQL & Power BI — analyzing 15,000+ job listings across 50+ count
 - 📈 **Salary Correlation:** Experience = 0.74 (strongest driver)
 - 🏢 **Large Companies Pay:** 27% more than Small ($130K vs $102K)
 - 🌐 **Work Type:** Remote, Hybrid & Onsite equally distributed (~33%)
+- 🎓 **Education Impact:** Minimal — all degrees get equal opportunities
 
 ## 📁 Project Structure
 ```
@@ -57,6 +58,3 @@ using Python, SQL & Power BI — analyzing 15,000+ job listings across 50+ count
 ├── ai_jobs.pbix               → Power BI Dashboard (4 pages)
 └── README.md                  → Project Documentation
 ```
-- 🎓 **Education Impact:** Minimal — all degrees get equal opportunities
-
-## 📁 Project Structure
