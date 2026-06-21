@@ -41,10 +41,10 @@ using Python, SQL & Power BI — analyzing 15,000+ job listings across 50+ count
 - Company Size vs Avg Salary — Bar Chart
 
 ## 📈 Dashboard Preview
-![Overview](dashboard/Overview.png)
-![Salary Analysis](dashboard/Salary_Analysis.png)
-![Skills & Industry](dashboard/Skills&Industry.png)
-![Key Insights](dashboard/Key_Insights.png)
+![Overview](dashboard/job-1.png)
+![Salary Analysis](dashboard/job-2.png)
+![Skills & Industry](dashboard/job-3.png)
+![Key Insights](dashboard/job-4.png)
 
 ## 🔍 Key Insights
 - 🌍 **Total Jobs Analyzed:** 15,000+
