@@ -40,6 +40,12 @@ using Python, SQL & Power BI — analyzing 15,000+ job listings across 50+ count
 - Average Salary by Industry — Bar Chart
 - Company Size vs Avg Salary — Bar Chart
 
+## 📈 Dashboard Preview
+![Overview](dashboard/Overview.png)
+![Salary Analysis](dashboard/Salary_Analysis.png)
+![Skills & Industry](dashboard/Skills&Industry.png)
+![Key Insights](dashboard/Key_Insights.png)
+
 ## 🔍 Key Insights
 - 🌍 **Total Jobs Analyzed:** 15,000+
 - 💰 **Avg Salary:** $115K
@@ -52,6 +58,11 @@ using Python, SQL & Power BI — analyzing 15,000+ job listings across 50+ count
 
 ## 📁 Project Structure
 ```
+├── dashboard                  → Screenshots
+    ├── job-1.png              → Overview
+    ├── job-2.png              → Salary Analysis
+    ├── job-3.png              → Skills & Industry
+    ├── job-4.png              → Key Insights
 ├── ai_jobs_cleaned.csv        → Cleaned Dataset
 ├── ai_jobs.sql                → SQL Queries (DB creation + 6 queries)
 ├── job_analysis.ipynb         → Python EDA Notebook (14 analyses)
