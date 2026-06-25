@@ -14,7 +14,7 @@ using Python, SQL & Power BI — analyzing 15,000+ job listings across 50+ count
 - **Link:** https://www.kaggle.com/datasets/pratyushpuri/global-ai-job-market-trend-2025
 - **Records:** 15,000 job listings
 - **Period:** 2025
-- **Region:** 50+ Countries
+- **Region:** 20 Countries
 
 ## 💡 SQL Analysis Performed
 - Database & Table Creation
